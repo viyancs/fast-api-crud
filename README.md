@@ -1,8 +1,6 @@
 
 # Getting started
-
-##
-I try to update the version dependencies as soon as possible to ensure that the core dependencies of this project have the highest version possible.
+try to update the version dependencies as soon as possible to ensure that the core dependencies of this project have the highest version possible.
 ```bash
 fastapi<=0.68.2
 pydantic<=1.8.2
