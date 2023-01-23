@@ -605,8 +605,4 @@ In the other case, you have an api that operate data on batch in the system usin
 If there are no users in the system, then, in this case, you should return 204.
 
 
-### TODO
-[milestones](https://github.com/LuisLuii/FastAPIQuickCRUD/milestones)
-
-    
 
